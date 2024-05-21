@@ -1,5 +1,4 @@
-
-###Project Description
+Project Description
 This team project involves the design and development of a functional database-driven 
 PHP Web application, similar to those e-commerce Web sites on the Internet. The 
 application should be capable of performing the four basic database operations: create, 
@@ -9,27 +8,13 @@ from the idea phase to implementation, your skills working in a team, and your m
 of procedural programming with PHP and data integration with MySQL. This project 
 makes up 30% of your grade in this class. 
 
-###Team Composition
-This is a team project. Each team may consist of two or three members. Each team may 
-freely choose its members from the class.
-
-###Web Site Content
+Web Site Content
 You will need to choose a theme for your site. You need to extensively research the 
 Internet or other media and decide what information to include on the Web 
 site. Followings are several suggested themes that you may choose to use. You may 
-certainly choose the theme of your own. Check out sample projects from previous 
-semesters at http://www.indiana.edu/~i210/students/.
+certainly choose the theme of your own.
 
-####Project Ideas
-
-* Shopping site
-* DVD and CDs rentals
-* Online banking system
-* Library lending system
-* Music bands
-* Sports teams
-
-###Web Site Organization
+Web Site Organization
 * Name the home page file index.php.
 * A common banner and logo should appear on every page. Link the logo to the home 
 page index.php. Make your site look consistently.
@@ -37,7 +22,7 @@ page index.php. Make your site look consistently.
 * Organize files in folders. For example, put all images in the Images folder.
 * Make sure you do not use absolute file paths. 
 
-###Minimum Requirements for Features
+Minimum Requirements for Features
 * Displaying inventory.
 * Displaying details of a specific product/item.3
 * Searching inventory.
@@ -48,7 +33,7 @@ page index.php. Make your site look consistently.
 details of an existing product in the database, deleting an existing product from the 
 database.
 
-###Minimum Technical Requirements
+Minimum Technical Requirements
 * The Web site must have at least ten Web pages.
 * Use an external style sheet to format a common style for the site.
 * Modularize your code with functions and file inclusion.
@@ -58,14 +43,8 @@ database.
 fields, query strings, cookies, or sessions.
 * Authentication and authorization.
 
-###Documentation
+Documentation
 A short explanatory document must accompany your Web site. The document must 
 describe both the technical and non-technical aspects of your Web site. It must include 
 a flow chart to clearly represent the structure of the site. Please refer to the 
 documentation template for details.
-
-###Presentation and Promotion
-Each team will need to present and promote your Web site to the whole class. The
-presentation should be between 10 to 15 minutes long and you will have 5 additional 
-minutes for questions. Make PowerPoint slides, handouts if necessary. Think of yourself 
-as a market person and think how you want to promote your site.
