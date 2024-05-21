@@ -1,8 +1,3 @@
-#JAYROLEX Final Project
-
-This is the final project for i210.
-
-Collaborators are Jay, Ross, and Alex.
 
 ###Project Description
 This team project involves the design and development of a functional database-driven 
